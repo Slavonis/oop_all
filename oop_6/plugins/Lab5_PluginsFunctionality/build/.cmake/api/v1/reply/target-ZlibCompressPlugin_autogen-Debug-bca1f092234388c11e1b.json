@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"plugins/zlib_compress/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ZlibCompressPlugin_autogen_timestamp_deps::@73a600e604d631305744"
+		}
+	],
+	"id" : "ZlibCompressPlugin_autogen::@73a600e604d631305744",
+	"isGeneratorProvided" : true,
+	"name" : "ZlibCompressPlugin_autogen",
+	"paths" : 
+	{
+		"build" : "plugins/zlib_compress",
+		"source" : "plugins/zlib_compress"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/plugins/zlib_compress/CMakeFiles/ZlibCompressPlugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/plugins/zlib_compress/CMakeFiles/ZlibCompressPlugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/plugins/zlib_compress/ZlibCompressPlugin_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

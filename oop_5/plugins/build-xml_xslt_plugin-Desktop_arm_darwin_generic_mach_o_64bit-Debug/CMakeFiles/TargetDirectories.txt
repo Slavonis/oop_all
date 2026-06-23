@@ -1,0 +1,5 @@
+/Users/slava/QT_PRoj/oop_5/plugins/build-xml_xslt_plugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/xml_xslt_plugin.dir
+/Users/slava/QT_PRoj/oop_5/plugins/build-xml_xslt_plugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/slava/QT_PRoj/oop_5/plugins/build-xml_xslt_plugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/slava/QT_PRoj/oop_5/plugins/build-xml_xslt_plugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/xml_xslt_plugin_autogen_timestamp_deps.dir
+/Users/slava/QT_PRoj/oop_5/plugins/build-xml_xslt_plugin-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/xml_xslt_plugin_autogen.dir

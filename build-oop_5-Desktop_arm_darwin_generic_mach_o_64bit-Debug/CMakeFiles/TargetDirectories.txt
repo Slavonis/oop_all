@@ -1,0 +1,9 @@
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/oop_5.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/list_install_components.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/local.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/strip.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/oop_5_autogen_timestamp_deps.dir
+/Users/slava/QT_PRoj/build-oop_5-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/oop_5_autogen.dir

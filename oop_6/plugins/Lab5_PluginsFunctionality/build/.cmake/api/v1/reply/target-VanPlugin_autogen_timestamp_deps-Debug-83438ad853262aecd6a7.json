@@ -1,0 +1,64 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"plugins/van/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "VehicleLib::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "VanPlugin_autogen_timestamp_deps::@62f8b7105a810a55270c",
+	"isGeneratorProvided" : true,
+	"name" : "VanPlugin_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "plugins/van",
+		"source" : "plugins/van"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/plugins/van/CMakeFiles/VanPlugin_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/plugins/van/CMakeFiles/VanPlugin_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

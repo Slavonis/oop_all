@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/VehicleLib_autogen/mocs_compilation.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/mocs_compilation.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/VehicleLib_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/model/Vehicle.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/model/Vehicle.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/model/Vehicle.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/model/Vehicle.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/model/Car.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/model/Car.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/model/Car.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/model/Car.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/model/Bike.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/model/Bike.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/model/Bike.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/model/Bike.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/model/Truck.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/model/Truck.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/model/Truck.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/model/Truck.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/model/Bus.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/model/Bus.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/model/Bus.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/model/Bus.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/model/Motorcycle.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/model/Motorcycle.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/model/Motorcycle.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/model/Motorcycle.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/model/ElectricScooter.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/model/ElectricScooter.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/model/ElectricScooter.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/model/ElectricScooter.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVehicleLib_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/VehicleLib_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VehicleLib.dir/src/factory/VehicleFactory.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/factory/VehicleFactory.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/factory/VehicleFactory.cpp",
+  "output": "CMakeFiles/VehicleLib.dir/src/factory/VehicleFactory.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/baks/code/Lab5_PluginsFunctionality/build/Lab5_PluginsFunctionality_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/Lab5_PluginsFunctionality.dir/Lab5_PluginsFunctionality_autogen/mocs_compilation.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/build/Lab5_PluginsFunctionality_autogen/mocs_compilation.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/build/Lab5_PluginsFunctionality_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Lab5_PluginsFunctionality.dir/Lab5_PluginsFunctionality_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/baks/code/Lab5_PluginsFunctionality/build/Lab5_PluginsFunctionality_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/Lab5_PluginsFunctionality.dir/main.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/main.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/main.cpp",
+  "output": "CMakeFiles/Lab5_PluginsFunctionality.dir/main.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/baks/code/Lab5_PluginsFunctionality/build/Lab5_PluginsFunctionality_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/Lab5_PluginsFunctionality.dir/src/ui/MainWindow.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/ui/MainWindow.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/ui/MainWindow.cpp",
+  "output": "CMakeFiles/Lab5_PluginsFunctionality.dir/src/ui/MainWindow.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/baks/code/Lab5_PluginsFunctionality/build/Lab5_PluginsFunctionality_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -o CMakeFiles/Lab5_PluginsFunctionality.dir/src/ui/EditVehicleDialog.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/src/ui/EditVehicleDialog.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/src/ui/EditVehicleDialog.cpp",
+  "output": "CMakeFiles/Lab5_PluginsFunctionality.dir/src/ui/EditVehicleDialog.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/van",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVanPlugin_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/plugins/van/VanPlugin_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VanPlugin.dir/VanPlugin_autogen/mocs_compilation.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/build/plugins/van/VanPlugin_autogen/mocs_compilation.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/van/VanPlugin_autogen/mocs_compilation.cpp",
+  "output": "plugins/van/CMakeFiles/VanPlugin.dir/VanPlugin_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/van",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVanPlugin_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/plugins/van/VanPlugin_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VanPlugin.dir/Van.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/plugins/van/Van.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/plugins/van/Van.cpp",
+  "output": "plugins/van/CMakeFiles/VanPlugin.dir/Van.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/van",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DVanPlugin_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/plugins/van/VanPlugin_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/VanPlugin.dir/VanPlugin.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/plugins/van/VanPlugin.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/plugins/van/VanPlugin.cpp",
+  "output": "plugins/van/CMakeFiles/VanPlugin.dir/VanPlugin.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/zlib_compress",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DZlibCompressPlugin_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/plugins/zlib_compress/ZlibCompressPlugin_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/ZlibCompressPlugin.dir/ZlibCompressPlugin_autogen/mocs_compilation.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/build/plugins/zlib_compress/ZlibCompressPlugin_autogen/mocs_compilation.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/zlib_compress/ZlibCompressPlugin_autogen/mocs_compilation.cpp",
+  "output": "plugins/zlib_compress/CMakeFiles/ZlibCompressPlugin.dir/ZlibCompressPlugin_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/zlib_compress",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DZlibCompressPlugin_EXPORTS -I/home/baks/code/Lab5_PluginsFunctionality/build/plugins/zlib_compress/ZlibCompressPlugin_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/ZlibCompressPlugin.dir/ZlibCompressPlugin.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/plugins/zlib_compress/ZlibCompressPlugin.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/plugins/zlib_compress/ZlibCompressPlugin.cpp",
+  "output": "plugins/zlib_compress/CMakeFiles/ZlibCompressPlugin.dir/ZlibCompressPlugin.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/identity",
+  "command": "/usr/bin/clang++ -DIdentityPlugin_EXPORTS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/baks/code/Lab5_PluginsFunctionality/build/plugins/identity/IdentityPlugin_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/IdentityPlugin.dir/IdentityPlugin_autogen/mocs_compilation.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/build/plugins/identity/IdentityPlugin_autogen/mocs_compilation.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/identity/IdentityPlugin_autogen/mocs_compilation.cpp",
+  "output": "plugins/identity/CMakeFiles/IdentityPlugin.dir/IdentityPlugin_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/baks/code/Lab5_PluginsFunctionality/build/plugins/identity",
+  "command": "/usr/bin/clang++ -DIdentityPlugin_EXPORTS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/baks/code/Lab5_PluginsFunctionality/build/plugins/identity/IdentityPlugin_autogen/include -I/home/baks/code/Lab5_PluginsFunctionality/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -std=gnu++17 -fPIC -fPIC -o CMakeFiles/IdentityPlugin.dir/IdentityPlugin.cpp.o -c /home/baks/code/Lab5_PluginsFunctionality/plugins/identity/IdentityPlugin.cpp",
+  "file": "/home/baks/code/Lab5_PluginsFunctionality/plugins/identity/IdentityPlugin.cpp",
+  "output": "plugins/identity/CMakeFiles/IdentityPlugin.dir/IdentityPlugin.cpp.o"
+}
+]

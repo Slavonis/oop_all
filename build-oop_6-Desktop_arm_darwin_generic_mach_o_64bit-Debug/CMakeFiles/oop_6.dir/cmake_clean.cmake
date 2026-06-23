@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/oop_6_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/oop_6_autogen.dir/ParseCache.txt"
+  "oop_6_autogen"
+  "CMakeFiles/oop_6.dir/air_transport.cpp.o"
+  "CMakeFiles/oop_6.dir/air_transport.cpp.o.d"
+  "CMakeFiles/oop_6.dir/airplane.cpp.o"
+  "CMakeFiles/oop_6.dir/airplane.cpp.o.d"
+  "CMakeFiles/oop_6.dir/car.cpp.o"
+  "CMakeFiles/oop_6.dir/car.cpp.o.d"
+  "CMakeFiles/oop_6.dir/dialog.cpp.o"
+  "CMakeFiles/oop_6.dir/dialog.cpp.o.d"
+  "CMakeFiles/oop_6.dir/file_context.cpp.o"
+  "CMakeFiles/oop_6.dir/file_context.cpp.o.d"
+  "CMakeFiles/oop_6.dir/ground_transport.cpp.o"
+  "CMakeFiles/oop_6.dir/ground_transport.cpp.o.d"
+  "CMakeFiles/oop_6.dir/main.cpp.o"
+  "CMakeFiles/oop_6.dir/main.cpp.o.d"
+  "CMakeFiles/oop_6.dir/mainwindow.cpp.o"
+  "CMakeFiles/oop_6.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/oop_6.dir/motor_cycle.cpp.o"
+  "CMakeFiles/oop_6.dir/motor_cycle.cpp.o.d"
+  "CMakeFiles/oop_6.dir/oop_6_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/oop_6.dir/oop_6_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/oop_6.dir/plugin_manager.cpp.o"
+  "CMakeFiles/oop_6.dir/plugin_manager.cpp.o.d"
+  "CMakeFiles/oop_6.dir/proc_interface.cpp.o"
+  "CMakeFiles/oop_6.dir/proc_interface.cpp.o.d"
+  "CMakeFiles/oop_6.dir/transport.cpp.o"
+  "CMakeFiles/oop_6.dir/transport.cpp.o.d"
+  "oop_6.app/Contents/MacOS/oop_6"
+  "oop_6.pdb"
+  "oop_6_autogen/mocs_compilation.cpp"
+  "oop_6_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/oop_6.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

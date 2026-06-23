@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_boat_FILE /Users/slava/QT_PRoj/oop_4/plugins/build-boat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/libboat.dylib)
+set(__QT_DEPLOY_TARGET_boat_TYPE SHARED_LIBRARY)

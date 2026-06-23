@@ -1,0 +1,5 @@
+/Users/slava/QT_PRoj/oop_4/plugins/build-boat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/boat.dir
+/Users/slava/QT_PRoj/oop_4/plugins/build-boat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/slava/QT_PRoj/oop_4/plugins/build-boat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/slava/QT_PRoj/oop_4/plugins/build-boat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/boat_autogen_timestamp_deps.dir
+/Users/slava/QT_PRoj/oop_4/plugins/build-boat-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/boat_autogen.dir

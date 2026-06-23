@@ -1,0 +1,20 @@
+<transport_list>
+  <item>
+    <Max Altitude>0.0</Max Altitude>
+    <Name></Name>
+    <Speed>0.0</Speed>
+    <type>Airplane</type>
+  </item>
+  <item>
+    <Draft>0.0</Draft>
+    <Name></Name>
+    <Speed>0.0</Speed>
+    <type>Water Transport</type>
+  </item>
+  <item>
+    <Draft>0.0</Draft>
+    <Name></Name>
+    <Speed>0.0</Speed>
+    <type>Water Transport</type>
+  </item>
+</transport_list>

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_water_transport_FILE /Users/slava/QT_PRoj/oop_4/plugins/build-water_transport-Desktop_arm_darwin_generic_mach_o_64bit-Debug/libwater_transport.dylib)
+set(__QT_DEPLOY_TARGET_water_transport_TYPE SHARED_LIBRARY)

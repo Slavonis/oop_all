@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_xml_xslt_plugin_2_FILE /Users/slava/QT_PRoj/oop_6/plugins/build-xml_xslt_plugin_2-Desktop_arm_darwin_generic_mach_o_64bit-Debug/libxml_xslt_plugin_2.dylib)
+set(__QT_DEPLOY_TARGET_xml_xslt_plugin_2_TYPE SHARED_LIBRARY)

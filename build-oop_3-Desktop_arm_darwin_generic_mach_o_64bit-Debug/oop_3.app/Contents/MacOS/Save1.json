@@ -1,0 +1,14 @@
+[
+    {
+        "Max Altitude": 3.0,
+        "Name": "tr",
+        "Speed": 3.0,
+        "type": "Airplane"
+    },
+    {
+        "Name": "ER",
+        "Speed": 3.0,
+        "Wheels": 3,
+        "type": "Car"
+    }
+]

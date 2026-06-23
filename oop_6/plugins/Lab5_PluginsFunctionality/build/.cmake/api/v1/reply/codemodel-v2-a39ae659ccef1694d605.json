@@ -1,0 +1,237 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "plugins/van",
+					"jsonFile" : "directory-plugins.van-Debug-06b6ffd3934756cb39ee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "plugins/van",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "plugins/zlib_compress",
+					"jsonFile" : "directory-plugins.zlib_compress-Debug-582206251d530de97f94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "plugins/zlib_compress",
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "plugins/identity",
+					"jsonFile" : "directory-plugins.identity-Debug-5d4ed5a7386947270a2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "plugins/identity",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "Lab5_PluginsFunctionality",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "IdentityPlugin::@9255a094a62a2b9baf21",
+					"jsonFile" : "target-IdentityPlugin-Debug-8a5209ad58dc68f500b0.json",
+					"name" : "IdentityPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "IdentityPlugin_autogen::@9255a094a62a2b9baf21",
+					"jsonFile" : "target-IdentityPlugin_autogen-Debug-af4ef80fd6a13af4cc5c.json",
+					"name" : "IdentityPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "IdentityPlugin_autogen_timestamp_deps::@9255a094a62a2b9baf21",
+					"jsonFile" : "target-IdentityPlugin_autogen_timestamp_deps-Debug-4fd86a05bad2c38c2046.json",
+					"name" : "IdentityPlugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab5_PluginsFunctionality::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab5_PluginsFunctionality-Debug-27c11ca71b84d1695201.json",
+					"name" : "Lab5_PluginsFunctionality",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab5_PluginsFunctionality_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab5_PluginsFunctionality_autogen-Debug-ec4f8232351f9611594d.json",
+					"name" : "Lab5_PluginsFunctionality_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab5_PluginsFunctionality_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab5_PluginsFunctionality_autogen_timestamp_deps-Debug-5b2f7be6b054f578ff99.json",
+					"name" : "Lab5_PluginsFunctionality_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "VanPlugin::@62f8b7105a810a55270c",
+					"jsonFile" : "target-VanPlugin-Debug-018940e47cbde2994b7d.json",
+					"name" : "VanPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "VanPlugin_autogen::@62f8b7105a810a55270c",
+					"jsonFile" : "target-VanPlugin_autogen-Debug-bb52af4b195c3d2e1e42.json",
+					"name" : "VanPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "VanPlugin_autogen_timestamp_deps::@62f8b7105a810a55270c",
+					"jsonFile" : "target-VanPlugin_autogen_timestamp_deps-Debug-83438ad853262aecd6a7.json",
+					"name" : "VanPlugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VehicleLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VehicleLib-Debug-6596189016075645a7d6.json",
+					"name" : "VehicleLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VehicleLib_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VehicleLib_autogen-Debug-a5bea370a4813241e904.json",
+					"name" : "VehicleLib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VehicleLib_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VehicleLib_autogen_timestamp_deps-Debug-7fb9e3d800d664a593d9.json",
+					"name" : "VehicleLib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ZlibCompressPlugin::@73a600e604d631305744",
+					"jsonFile" : "target-ZlibCompressPlugin-Debug-47ae8862649d62bc57e0.json",
+					"name" : "ZlibCompressPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ZlibCompressPlugin_autogen::@73a600e604d631305744",
+					"jsonFile" : "target-ZlibCompressPlugin_autogen-Debug-bca1f092234388c11e1b.json",
+					"name" : "ZlibCompressPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ZlibCompressPlugin_autogen_timestamp_deps::@73a600e604d631305744",
+					"jsonFile" : "target-ZlibCompressPlugin_autogen_timestamp_deps-Debug-5bc08aaef1b6eb691a6b.json",
+					"name" : "ZlibCompressPlugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baks/code/Lab5_PluginsFunctionality/build",
+		"source" : "/home/baks/code/Lab5_PluginsFunctionality"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
