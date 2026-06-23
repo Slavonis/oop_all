@@ -1,0 +1,5 @@
+#include "circle.h"
+
+void Circle::accept(shape_visitor* visitor) {
+    visitor->visit(this); // Visitor understands this is a Circle*
+}

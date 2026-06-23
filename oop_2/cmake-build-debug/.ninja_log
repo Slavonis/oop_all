@@ -1,0 +1,8 @@
+# ninja log v6
+2	531	1777812604365303981	oop_2_autogen/timestamp	df499220760c23c1
+2	531	1777812604365303981	/Users/slava/QT_PRoj/oop_2/cmake-build-debug/oop_2_autogen/timestamp	df499220760c23c1
+533	1371	1777812604378025372	CMakeFiles/oop_2.dir/oop_2_autogen/mocs_compilation.cpp.o	49bd22fa9b57296
+2	531	1777812604365303981	oop_2_autogen/mocs_compilation.cpp	df499220760c23c1
+2	531	1777812604365303981	/Users/slava/QT_PRoj/oop_2/cmake-build-debug/oop_2_autogen/mocs_compilation.cpp	df499220760c23c1
+533	1372	1777812604378284036	CMakeFiles/oop_2.dir/main.cpp.o	f5a1799a7962ba4f
+533	1438	1777812604378431244	CMakeFiles/oop_2.dir/mainwindow.cpp.o	a4d0e47d28f17f24
